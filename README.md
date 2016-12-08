@@ -10,6 +10,7 @@ No momento já tenho o Zookeeper, Kafka e Flume. Agora estou instalando o Cassan
 Mais tarde eu monto um roadmap pra que os amigos possam acompanhar.
 
 Criação de um diretório que simula o diretorio raiz do linux
+  
   sudo mkdir /bigdatalabs
   chown -R barbosa:barbosa /bigdatalabs
 
