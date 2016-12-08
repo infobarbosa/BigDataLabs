@@ -9,10 +9,10 @@ A solução será baseada em Docker então os commits desse projeto incluirão o
 No momento já tenho o Zookeeper, Kafka e Flume. Agora estou instalando o Cassandra.
 Mais tarde eu monto um roadmap pra que os amigos possam acompanhar.
 
-#criacao de um diretorio que simula o diretorio raiz do linux
-sudo mkdir /bigdatalabs
-chown -R barbosa:barbosa /bigdatalabs
+Criação de um diretório que simula o diretorio raiz do linux
+  sudo mkdir /bigdatalabs
+  chown -R barbosa:barbosa /bigdatalabs
 
-mkdir -p /bigdatalabs/var/lib
-mkdir -p /bigdatalabs/opt
+  mkdir -p /bigdatalabs/var/lib
+  mkdir -p /bigdatalabs/opt
 
